@@ -1,3 +1,4 @@
 hi
 my name is ram lakshman
-currently iam doing git cli 
+currently iam acquring more knowlwdge on coding
+
